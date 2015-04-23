@@ -1,18 +1,22 @@
 # <%=config[:constant_name]%>
 
-TODO: Delete this and the text above, and describe your gem
+TODO: Delete this and the text above, and describe your project
 
 ## Installation
 
 Download this repo with git.  
 
 ```
-$ git clone this_repo
+$ git clone <%=config[:git_repo_url]%>
 ```
 
 Connect your Arduino Uno and flash it using platformio:
 
     $ platformio run
+
+## Parts
+
+* [TODO:  Add Parts](http://127.0.0.1)
 
 ## Wiring
 
@@ -20,7 +24,8 @@ TODO: Drop a link to a picture of your wiring here or something.  Maybe fritzing
 
 ## Device Operation
 
-TODO: Write device operation here
+TODO: Explain how to use the device here
+
 
 ## Contributing
 
