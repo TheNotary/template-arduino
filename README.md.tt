@@ -1,0 +1,31 @@
+# <%=config[:constant_name]%>
+
+TODO: Delete this and the text above, and describe your gem
+
+## Installation
+
+Download this repo with git.  
+
+```
+$ git clone this_repo
+```
+
+Connect your Arduino Uno and flash it using platformio:
+
+    $ platformio run
+
+## Wiring
+
+TODO: Drop a link to a picture of your wiring here or something.  Maybe fritzing.  
+
+## Device Operation
+
+TODO: Write device operation here
+
+## Contributing
+
+1. Fork it ( https://github.com/[my-github-username]/<%=config[:name]%>/fork )
+2. Create your feature branch (`git checkout -b my-new-feature`)
+3. Commit your changes (`git commit -am 'Add some feature'`)
+4. Push to the branch (`git push origin my-new-feature`)
+5. Create a new Pull Request
